@@ -1,0 +1,8 @@
+{
+    "name": "NodeJS-WSProxy",
+    "description": "Heroku ws proxy for efridge",
+    "repository": "https://github.com/heroku/node-js-getting-started",
+    "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/main/public/node.svg",
+    "keywords": ["node", "ws", "heroku"],
+    "image": "heroku/nodejs"
+  }
